@@ -1,0 +1,85 @@
+/*
+WARNING: Do NOT edit the input and output ports in this file in a text
+editor if you plan to continue editing the block that represents it in
+the Block Editor! File corruption is VERY likely to occur.
+*/
+/*
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+*/
+(header "symbol" (version "1.2"))
+(symbol
+	(rect 16 16 296 144)
+	(text "pwm" (rect 5 0 33 12)(font "Arial" (font_size 8)))
+	(text "inst" (rect 8 114 25 124)(font "Arial" ))
+	(port
+		(pt 0 32)
+		(input)
+		(text "sys_clk" (rect 0 0 43 12)(font "Arial" (font_size 8)))
+		(text "sys_clk" (rect 21 27 64 39)(font "Arial" (font_size 8)))
+		(line (pt 0 32)(pt 16 32))
+	)
+	(port
+		(pt 0 48)
+		(input)
+		(text "pwm_input_bus_signed[45..0]" (rect 0 0 171 12)(font "Arial" (font_size 8)))
+		(text "pwm_input_bus_signed[45..0]" (rect 21 43 192 55)(font "Arial" (font_size 8)))
+		(line (pt 0 48)(pt 16 48)(line_width 3))
+	)
+	(port
+		(pt 0 64)
+		(input)
+		(text "clk_pwm" (rect 0 0 50 12)(font "Arial" (font_size 8)))
+		(text "clk_pwm" (rect 21 59 71 71)(font "Arial" (font_size 8)))
+		(line (pt 0 64)(pt 16 64))
+	)
+	(port
+		(pt 0 80)
+		(input)
+		(text "sys_rst" (rect 0 0 43 12)(font "Arial" (font_size 8)))
+		(text "sys_rst" (rect 21 75 64 87)(font "Arial" (font_size 8)))
+		(line (pt 0 80)(pt 16 80))
+	)
+	(port
+		(pt 280 32)
+		(output)
+		(text "pin_pwm" (rect 0 0 51 12)(font "Arial" (font_size 8)))
+		(text "pin_pwm" (rect 208 27 259 39)(font "Arial" (font_size 8)))
+		(line (pt 280 32)(pt 264 32))
+	)
+	(port
+		(pt 280 48)
+		(output)
+		(text "pin_dirA" (rect 0 0 47 12)(font "Arial" (font_size 8)))
+		(text "pin_dirA" (rect 212 43 259 55)(font "Arial" (font_size 8)))
+		(line (pt 280 48)(pt 264 48))
+	)
+	(port
+		(pt 280 64)
+		(output)
+		(text "pin_dirB" (rect 0 0 46 12)(font "Arial" (font_size 8)))
+		(text "pin_dirB" (rect 213 59 259 71)(font "Arial" (font_size 8)))
+		(line (pt 280 64)(pt 264 64))
+	)
+	(port
+		(pt 280 80)
+		(output)
+		(text "cnt_ovf" (rect 0 0 43 12)(font "Arial" (font_size 8)))
+		(text "cnt_ovf" (rect 216 75 259 87)(font "Arial" (font_size 8)))
+		(line (pt 280 80)(pt 264 80))
+	)
+	(drawing
+		(rectangle (rect 16 16 264 112))
+	)
+)

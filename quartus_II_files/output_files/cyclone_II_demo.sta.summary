@@ -1,0 +1,293 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'inst|altpll_component|pll|clk[2]'
+Slack : -6.754
+TNS   : -96.443
+
+Type  : Slow Model Setup 'qei_pwm_block:inst16|qei_simple_bus128bit:inst1|inst383'
+Slack : -6.667
+TNS   : -195.401
+
+Type  : Slow Model Setup 'qei_pwm_block:inst17|qei_simple_bus128bit:inst1|inst383'
+Slack : -6.609
+TNS   : -193.772
+
+Type  : Slow Model Setup 'qei_pwm_block:inst22|qei_simple_bus128bit:inst1|inst383'
+Slack : -6.385
+TNS   : -184.665
+
+Type  : Slow Model Setup 'qei_pwm_block:inst15|qei_simple_bus128bit:inst1|inst383'
+Slack : -6.337
+TNS   : -182.433
+
+Type  : Slow Model Setup 'qei_simple_bus128bit:inst1|inst383'
+Slack : -5.873
+TNS   : -168.323
+
+Type  : Slow Model Setup 'qei_pwm_block:inst14|qei_simple_bus128bit:inst1|inst383'
+Slack : -5.633
+TNS   : -147.825
+
+Type  : Slow Model Setup 'qei_pwm_block:inst12|qei_simple_bus128bit:inst1|inst383'
+Slack : -5.579
+TNS   : -145.062
+
+Type  : Slow Model Setup 'qei_pwm_block:inst11|qei_simple_bus128bit:inst1|inst383'
+Slack : -4.968
+TNS   : -121.279
+
+Type  : Slow Model Setup 'qei_pwm_block:inst13|qei_simple_bus128bit:inst1|inst383'
+Slack : -4.851
+TNS   : -116.233
+
+Type  : Slow Model Setup 'lpm_counter0:inst4|lpm_counter:LPM_COUNTER_component|cntr_d4i:auto_generated|safe_q[4]'
+Slack : -1.307
+TNS   : -27.309
+
+Type  : Slow Model Setup 'clk_in'
+Slack : 2.034
+TNS   : 0.000
+
+Type  : Slow Model Hold 'clk_in'
+Slack : -1.800
+TNS   : -1.800
+
+Type  : Slow Model Hold 'qei_pwm_block:inst13|qei_simple_bus128bit:inst1|inst383'
+Slack : 0.481
+TNS   : 0.000
+
+Type  : Slow Model Hold 'inst|altpll_component|pll|clk[2]'
+Slack : 0.499
+TNS   : 0.000
+
+Type  : Slow Model Hold 'lpm_counter0:inst4|lpm_counter:LPM_COUNTER_component|cntr_d4i:auto_generated|safe_q[4]'
+Slack : 0.733
+TNS   : 0.000
+
+Type  : Slow Model Hold 'qei_pwm_block:inst15|qei_simple_bus128bit:inst1|inst383'
+Slack : 0.740
+TNS   : 0.000
+
+Type  : Slow Model Hold 'qei_simple_bus128bit:inst1|inst383'
+Slack : 0.741
+TNS   : 0.000
+
+Type  : Slow Model Hold 'qei_pwm_block:inst11|qei_simple_bus128bit:inst1|inst383'
+Slack : 0.748
+TNS   : 0.000
+
+Type  : Slow Model Hold 'qei_pwm_block:inst16|qei_simple_bus128bit:inst1|inst383'
+Slack : 0.748
+TNS   : 0.000
+
+Type  : Slow Model Hold 'qei_pwm_block:inst12|qei_simple_bus128bit:inst1|inst383'
+Slack : 0.753
+TNS   : 0.000
+
+Type  : Slow Model Hold 'qei_pwm_block:inst14|qei_simple_bus128bit:inst1|inst383'
+Slack : 0.753
+TNS   : 0.000
+
+Type  : Slow Model Hold 'qei_pwm_block:inst17|qei_simple_bus128bit:inst1|inst383'
+Slack : 0.753
+TNS   : 0.000
+
+Type  : Slow Model Hold 'qei_pwm_block:inst22|qei_simple_bus128bit:inst1|inst383'
+Slack : 0.753
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'lpm_counter0:inst4|lpm_counter:LPM_COUNTER_component|cntr_d4i:auto_generated|safe_q[4]'
+Slack : -0.742
+TNS   : -120.204
+
+Type  : Slow Model Minimum Pulse Width 'qei_simple_bus128bit:inst1|inst383'
+Slack : -0.742
+TNS   : -68.264
+
+Type  : Slow Model Minimum Pulse Width 'qei_pwm_block:inst11|qei_simple_bus128bit:inst1|inst383'
+Slack : -0.742
+TNS   : -59.360
+
+Type  : Slow Model Minimum Pulse Width 'qei_pwm_block:inst12|qei_simple_bus128bit:inst1|inst383'
+Slack : -0.742
+TNS   : -59.360
+
+Type  : Slow Model Minimum Pulse Width 'qei_pwm_block:inst13|qei_simple_bus128bit:inst1|inst383'
+Slack : -0.742
+TNS   : -59.360
+
+Type  : Slow Model Minimum Pulse Width 'qei_pwm_block:inst14|qei_simple_bus128bit:inst1|inst383'
+Slack : -0.742
+TNS   : -59.360
+
+Type  : Slow Model Minimum Pulse Width 'qei_pwm_block:inst15|qei_simple_bus128bit:inst1|inst383'
+Slack : -0.742
+TNS   : -59.360
+
+Type  : Slow Model Minimum Pulse Width 'qei_pwm_block:inst16|qei_simple_bus128bit:inst1|inst383'
+Slack : -0.742
+TNS   : -59.360
+
+Type  : Slow Model Minimum Pulse Width 'qei_pwm_block:inst17|qei_simple_bus128bit:inst1|inst383'
+Slack : -0.742
+TNS   : -59.360
+
+Type  : Slow Model Minimum Pulse Width 'qei_pwm_block:inst22|qei_simple_bus128bit:inst1|inst383'
+Slack : -0.742
+TNS   : -59.360
+
+Type  : Slow Model Minimum Pulse Width 'inst|altpll_component|pll|clk[2]'
+Slack : 3.758
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'clk_in'
+Slack : 8.758
+TNS   : 0.000
+
+Type  : Fast Model Setup 'qei_pwm_block:inst16|qei_simple_bus128bit:inst1|inst383'
+Slack : -2.124
+TNS   : -53.807
+
+Type  : Fast Model Setup 'qei_pwm_block:inst17|qei_simple_bus128bit:inst1|inst383'
+Slack : -2.093
+TNS   : -53.281
+
+Type  : Fast Model Setup 'inst|altpll_component|pll|clk[2]'
+Slack : -2.081
+TNS   : -28.081
+
+Type  : Fast Model Setup 'qei_pwm_block:inst22|qei_simple_bus128bit:inst1|inst383'
+Slack : -2.029
+TNS   : -50.243
+
+Type  : Fast Model Setup 'qei_pwm_block:inst15|qei_simple_bus128bit:inst1|inst383'
+Slack : -1.992
+TNS   : -48.735
+
+Type  : Fast Model Setup 'qei_simple_bus128bit:inst1|inst383'
+Slack : -1.627
+TNS   : -32.638
+
+Type  : Fast Model Setup 'qei_pwm_block:inst14|qei_simple_bus128bit:inst1|inst383'
+Slack : -1.549
+TNS   : -29.122
+
+Type  : Fast Model Setup 'qei_pwm_block:inst12|qei_simple_bus128bit:inst1|inst383'
+Slack : -1.470
+TNS   : -26.246
+
+Type  : Fast Model Setup 'qei_pwm_block:inst11|qei_simple_bus128bit:inst1|inst383'
+Slack : -1.286
+TNS   : -20.293
+
+Type  : Fast Model Setup 'qei_pwm_block:inst13|qei_simple_bus128bit:inst1|inst383'
+Slack : -1.254
+TNS   : -18.970
+
+Type  : Fast Model Setup 'lpm_counter0:inst4|lpm_counter:LPM_COUNTER_component|cntr_d4i:auto_generated|safe_q[4]'
+Slack : -0.079
+TNS   : -0.333
+
+Type  : Fast Model Setup 'clk_in'
+Slack : 1.558
+TNS   : 0.000
+
+Type  : Fast Model Hold 'clk_in'
+Slack : -1.178
+TNS   : -1.178
+
+Type  : Fast Model Hold 'qei_pwm_block:inst13|qei_simple_bus128bit:inst1|inst383'
+Slack : 0.112
+TNS   : 0.000
+
+Type  : Fast Model Hold 'inst|altpll_component|pll|clk[2]'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast Model Hold 'qei_pwm_block:inst11|qei_simple_bus128bit:inst1|inst383'
+Slack : 0.218
+TNS   : 0.000
+
+Type  : Fast Model Hold 'lpm_counter0:inst4|lpm_counter:LPM_COUNTER_component|cntr_d4i:auto_generated|safe_q[4]'
+Slack : 0.237
+TNS   : 0.000
+
+Type  : Fast Model Hold 'qei_pwm_block:inst15|qei_simple_bus128bit:inst1|inst383'
+Slack : 0.238
+TNS   : 0.000
+
+Type  : Fast Model Hold 'qei_simple_bus128bit:inst1|inst383'
+Slack : 0.238
+TNS   : 0.000
+
+Type  : Fast Model Hold 'qei_pwm_block:inst16|qei_simple_bus128bit:inst1|inst383'
+Slack : 0.240
+TNS   : 0.000
+
+Type  : Fast Model Hold 'qei_pwm_block:inst12|qei_simple_bus128bit:inst1|inst383'
+Slack : 0.243
+TNS   : 0.000
+
+Type  : Fast Model Hold 'qei_pwm_block:inst14|qei_simple_bus128bit:inst1|inst383'
+Slack : 0.243
+TNS   : 0.000
+
+Type  : Fast Model Hold 'qei_pwm_block:inst17|qei_simple_bus128bit:inst1|inst383'
+Slack : 0.243
+TNS   : 0.000
+
+Type  : Fast Model Hold 'qei_pwm_block:inst22|qei_simple_bus128bit:inst1|inst383'
+Slack : 0.243
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'lpm_counter0:inst4|lpm_counter:LPM_COUNTER_component|cntr_d4i:auto_generated|safe_q[4]'
+Slack : -0.500
+TNS   : -81.000
+
+Type  : Fast Model Minimum Pulse Width 'qei_simple_bus128bit:inst1|inst383'
+Slack : -0.500
+TNS   : -46.000
+
+Type  : Fast Model Minimum Pulse Width 'qei_pwm_block:inst11|qei_simple_bus128bit:inst1|inst383'
+Slack : -0.500
+TNS   : -40.000
+
+Type  : Fast Model Minimum Pulse Width 'qei_pwm_block:inst12|qei_simple_bus128bit:inst1|inst383'
+Slack : -0.500
+TNS   : -40.000
+
+Type  : Fast Model Minimum Pulse Width 'qei_pwm_block:inst13|qei_simple_bus128bit:inst1|inst383'
+Slack : -0.500
+TNS   : -40.000
+
+Type  : Fast Model Minimum Pulse Width 'qei_pwm_block:inst14|qei_simple_bus128bit:inst1|inst383'
+Slack : -0.500
+TNS   : -40.000
+
+Type  : Fast Model Minimum Pulse Width 'qei_pwm_block:inst15|qei_simple_bus128bit:inst1|inst383'
+Slack : -0.500
+TNS   : -40.000
+
+Type  : Fast Model Minimum Pulse Width 'qei_pwm_block:inst16|qei_simple_bus128bit:inst1|inst383'
+Slack : -0.500
+TNS   : -40.000
+
+Type  : Fast Model Minimum Pulse Width 'qei_pwm_block:inst17|qei_simple_bus128bit:inst1|inst383'
+Slack : -0.500
+TNS   : -40.000
+
+Type  : Fast Model Minimum Pulse Width 'qei_pwm_block:inst22|qei_simple_bus128bit:inst1|inst383'
+Slack : -0.500
+TNS   : -40.000
+
+Type  : Fast Model Minimum Pulse Width 'inst|altpll_component|pll|clk[2]'
+Slack : 4.000
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'clk_in'
+Slack : 9.000
+TNS   : 0.000
+
+------------------------------------------------------------

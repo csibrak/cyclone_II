@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="cyclone_II_demo">
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst11|pwm:inst2|lpm_compare1:inst3|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_bsk.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|lpm_counter_16b_up:inst19|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_d4i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst12|pwm:inst2|lpm_compare1:inst3|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_bsk.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|pwm:inst6|lpm_compare1:inst3|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_bsk.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst13|pwm:inst2|lpm_compare1:inst3|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_bsk.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst14|qei_simple_bus128bit:inst1|lpm_counter64:inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_rrg.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst22|pwm:inst2|lpm_compare1:inst3|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_bsk.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst11|pwm:inst2|lpm_compare2:inst5|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_6sk.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst11|pwm:inst2|lpm_counter_16b_up:inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_d4i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst14|pwm:inst2|lpm_compare1:inst3|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_bsk.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst15|qei_simple_bus128bit:inst1|lpm_counter64:inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_rrg.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst12|pwm:inst2|lpm_compare2:inst5|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_6sk.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst12|pwm:inst2|lpm_counter_16b_up:inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_d4i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst15|pwm:inst2|lpm_compare1:inst3|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_bsk.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst16|qei_simple_bus128bit:inst1|lpm_counter64:inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_rrg.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|pwm:inst6|lpm_compare2:inst5|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_6sk.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|pwm:inst6|lpm_counter_16b_up:inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_d4i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst13|pwm:inst2|lpm_compare2:inst5|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_6sk.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst13|pwm:inst2|lpm_counter_16b_up:inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_d4i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst16|pwm:inst2|lpm_compare1:inst3|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_bsk.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst17|qei_simple_bus128bit:inst1|lpm_counter64:inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_rrg.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst22|pwm:inst2|lpm_compare2:inst5|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_6sk.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst22|pwm:inst2|lpm_counter_16b_up:inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_d4i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_simple_bus128bit:inst1|lpm_counter64:inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_rrg.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst14|pwm:inst2|lpm_compare2:inst5|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_6sk.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst14|pwm:inst2|lpm_counter_16b_up:inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_d4i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst17|pwm:inst2|lpm_compare1:inst3|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_bsk.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|lpm_counter0:inst4|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_d4i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst11|qei_simple_bus128bit:inst1|lpm_counter64:inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_rrg.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst15|pwm:inst2|lpm_compare2:inst5|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_6sk.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst15|pwm:inst2|lpm_counter_16b_up:inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_d4i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst12|qei_simple_bus128bit:inst1|lpm_counter64:inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_rrg.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst16|pwm:inst2|lpm_compare2:inst5|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_6sk.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst16|pwm:inst2|lpm_counter_16b_up:inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_d4i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst13|qei_simple_bus128bit:inst1|lpm_counter64:inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_rrg.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst17|pwm:inst2|lpm_compare2:inst5|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_6sk.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst17|pwm:inst2|lpm_counter_16b_up:inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_d4i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|teszt1|qei_pwm_block:inst22|qei_simple_bus128bit:inst1|lpm_counter64:inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_rrg.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
