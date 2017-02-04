@@ -34,21 +34,15 @@ Install.
 
 Debian Linux post install updates:
 My "/etc/udev/rules.d/51-usbblaster.rules" file looks like this:
-
-# USB-Blaster
-#BUS=="usb", SYSFS{idVendor}=="09fb", SYSFS{idProduct}=="6001", MODE="0666"
+#FILE BEGIN:
 BUS=="usb", SYSFS{idVendor}=="09fb", SYSFS{idProduct}=="6002", MODE="0666"
 BUS=="usb", SYSFS{idVendor}=="09fb", SYSFS{idProduct}=="6003", MODE="0666"
-
-# USB-Blaster II
-
 BUS=="usb", SYSFS{idVendor}=="09fb", SYSFS{idProduct}=="6010", MODE="0666"
 BUS=="usb", SYSFS{idVendor}=="09fb", SYSFS{idProduct}=="6810", MODE="0666"
 
 SUBSYSTEM=="usb", ATTRS{idVendor}=="09fb", ATTRS{idProduct}=="6001", GROUP="plugdev", MODE="0666", SYMLINK+="usbblaster", SYMLINK+="Altera Blaster", SYMLINK+="Blaster" $
-#SUBSYSTEM=="usb", ATTRS{idVendor}=="09fb", ATTRS{idProduct}=="6001", GROUP="plugdev", MODE="0666", SYMLINK+="Altera Blaster"
 
-#END
+#FILE END
 
 Send me a message if you can't synthetise the project.
 
